@@ -1,0 +1,90 @@
+Lista de Compras
+Alimentos Frescos
+Frutas:
+
+Manzanas
+Bananas
+Naranjas
+Uvas
+Fresas
+Verduras:
+
+Lechuga
+Tomates
+Zanahorias
+Brócoli
+Espinacas
+Lácteos:
+
+Leche
+Yogur
+Queso
+Carnes y Pescados:
+
+Pollo
+Carne de res
+Pescado
+Tocino
+Alimentos Secos y Enlatados
+Granos y Legumbres:
+
+Arroz
+Pasta
+Lentejas
+Frijoles
+Enlatados:
+
+Tomates enlatados
+Atún enlatado
+Maíz enlatado
+Panadería
+Pan:
+
+Pan integral
+Pan blanco
+Pan de molde
+Otros productos de panadería:
+
+Bollos
+Bagels
+Congelados
+Vegetales congelados:
+
+Espinacas congeladas
+Guisantes congelados
+Comidas preparadas congeladas:
+
+Pizza congelada
+Lasagna congelada
+Bebidas
+Jugos:
+
+Jugo de naranja
+Jugo de manzana
+Otros:
+
+Agua embotellada
+Refrescos
+Café
+Té
+Snacks y Dulces
+Papas fritas
+Galletas
+Chocolate
+Frutos secos
+Productos de Higiene y Cuidado Personal
+Jabón
+Champú
+Pasta de dientes
+Papel higiénico
+Productos de Limpieza
+Detergente para ropa
+Limpiador multiusos
+Esponjas
+Artículos Adicionales (opcional)
+Especias y Condimentos:
+
+Sal
+Pimienta
+Aceite de oliva
+Vinagre
