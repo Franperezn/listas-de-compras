@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lista de compras para hacer los mejores fideos con salsa:
 
 - Un paquete de fideos
@@ -12,3 +13,8 @@ Lista de compras para hacer los mejores fideos con salsa:
 - Sal
 - Pimienta
 - Queso parmesano
+=======
+Lista de compras juegos consola
+1. mario 1 NES
+2. Donkey Kong SNES
+>>>>>>> origin/juegosconsola
